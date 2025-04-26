@@ -3,3 +3,4 @@ uuid = "19934f8a-4724-4b0f-872c-d2e109ecd7a0"
 repo = "git@github.com:VinceNeede/VinceNeedeRegistry.jl.git"
 
 [packages]
+9b599511-0acd-47dc-8066-53df86f12503 = { name = "MCMC", path = "M/MCMC" }

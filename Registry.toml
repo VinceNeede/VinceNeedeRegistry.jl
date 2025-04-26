@@ -1,0 +1,5 @@
+name = "VinceNeedeRegistry"
+uuid = "19934f8a-4724-4b0f-872c-d2e109ecd7a0"
+repo = "git@github.com:VinceNeede/VinceNeedeRegistry.jl.git"
+
+[packages]
